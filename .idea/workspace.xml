@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c4c45ea-a4f4-4827-a484-1889d94f4ccd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exostaz/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/exostaz/Welcome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitbucket-pipelines.yml" beforeDir="false" afterPath="$PROJECT_DIR$/bitbucket-pipelines.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667209999253</updated>
-      <workItem from="1667210001416" duration="3556000" />
+      <workItem from="1667210001416" duration="4043000" />
     </task>
     <servers />
   </component>
