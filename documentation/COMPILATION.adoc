@@ -2,12 +2,12 @@
 
 From the *project root*
 
-* *Prerequisites*
+A. *Prerequisites*
 
-1 `export PROJECT_ROOT=~/IdeaProjects/core-java-programming/`
-2 `export SRC=$PROJECT_ROOT/src/main/java/`
+1. `export PROJECT_ROOT=~/IdeaProjects/core-java-programming/`
+2. `export SRC=$PROJECT_ROOT/src/main/java/`
 
-* *Simple procedure*
+B. *Simple procedure*
 
 1. `cd $SRC`
 2. `javac com/exostaz/compilation/packageb/ClassB.java com/exostaz/compilation/packagea/ClassA.java -d ../../../out`
@@ -15,7 +15,7 @@ From the *project root*
 4. `java -cp out/ com.exostaz.compilation.packagea.ClassA`
 5. `rm -rf $PROJECT_ROOT/out/`
 
-* *Elegant procedure*
+C. *Elegant procedure*
 
 1. `cd $SRC`
 2. `find . -name *.java -exec javac {} -d ../../../out \;`
