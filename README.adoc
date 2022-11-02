@@ -1,2 +1,6 @@
 = The Java Programming Language
 
+A. *Building blocks*
+
+1. link:documentation/COMPILATION.adoc[Compilation]
+

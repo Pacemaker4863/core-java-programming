@@ -6,7 +6,7 @@ package com.exostaz.fundamental;
  * @author Gregory Risch
  * @version 1.0.0
  */
-public class BasicStructures {
+public class DataTypes {
     /*
      * The following part is about the primitive Java data types.
      * (and this is a multilines comment :) )
