@@ -1,18 +1,18 @@
-package com.exostaz.fundamental;
+package com.exostaz.fundamental.primitive;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-class DataTypesTest {
-    DataTypes dataTypes;
+class IntegersTest {
+    Integers integers;
 
     @BeforeEach
     void setUp() {
-        dataTypes = new DataTypes();
+        integers = new Integers();
     }
 
     @Test
     void playWithInt() {
-        dataTypes.playWithInt();
+        Integers.playWithInt();
     }
 }
